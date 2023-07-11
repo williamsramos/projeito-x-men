@@ -2,10 +2,9 @@ Projeito-x-men
 
 Projeto realizado por William, pelas dicas e segmentos do Dev em Dobro.
 Conheça o site e estude esse projeto em formato de vídeo clicando aqui.
-
 Tecnologias   |    Projeto   |    Layout   |    Licença 
 
-Tecnologias
+🚀Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -22,4 +21,4 @@ Você pode visualizar o layout do projeto Original através deste link:
 
 https://github.com/devemdobro/x-men-szpc
 
-Feito com ♥ by Lara.
+Feito por William Ramos.
