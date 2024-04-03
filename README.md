@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 💻 Projeto
 
-O MarioBros Project é um design de site para entrada e escolha de personagens, como se fosse um prologo de alguma batalha ou inicio de aventura de gameplay, nele você pode alterar os personagens e ler sua história e habilidades.
+O X-Men Project é um design de site para entrada e escolha de personagens, como se fosse um prologo de alguma batalha ou inicio de aventura de gameplay, nele você pode alterar os personagens e ler sua história e habilidades.
 🔖 Layout
 
 Você pode visualizar o layout do projeto Original através deste link:
